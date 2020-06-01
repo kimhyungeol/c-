@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main(void) {
+	printf("%d는 정수 입니다.\n", 10);
+	printf("%f는 소수입니다\n", 0.12);
+	printf("%c 는 문자입니다\n", 'c');
+	printf("%s 은 문자열입니다.\n", "hey");
+
+	return 0;
+}
